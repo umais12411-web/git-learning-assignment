@@ -1,0 +1,4 @@
+Name: FA-25-BCS-184
+Roll No: Umais
+Department: Computer Science
+Learning : How to install and run the command of Git.
